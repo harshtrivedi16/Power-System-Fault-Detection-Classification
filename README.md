@@ -14,11 +14,14 @@
 -  Tested through AutoAI interface with class probabilities
 
   # Files Included
-
-- `HT-Power System Fault Detection & Classification.pptx` – Project PowerPoint presentation
-- `HT-Power System Fault Detection & Classification.pdf` – Project pdf
-- `STEP BY STEP PROJECT SCREENSHOT.pdf` –  IBM CLOUD all process Images that showing dataset upload, model pipeline, predictions
-- `FAULT-DATA PS-41.csv` – Dataset File Name
+  
+- HT-Power System Fault Detection & Classification.pdf – Project pdf
+- HT-Power System Fault Detection & Classification.pptx – Project PowerPoint presentation
+- STEP BY STEP PROJECT SCREENSHOT.pdf –  IBM CLOUD all process Images that showing dataset upload, model pipeline, predictions
+- FAULT-DATA PS-41.csv – Dataset File Name
+- IBM CERTIFICATIONS - Getting Started With Artificial Intelligence- pdf file
+- IBM CERTIFICATIONS - Journey to Cloud- pdf file
+- IBM CERTIFICATIONS - RAG Lab - pdf file
 
   # Dataset Source
 
