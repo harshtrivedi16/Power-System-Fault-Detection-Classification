@@ -22,6 +22,20 @@
 - IBM CERTIFICATIONS - Getting Started With Artificial Intelligence- pdf file
 - IBM CERTIFICATIONS - Journey to Cloud- pdf file
 - IBM CERTIFICATIONS - RAG Lab - pdf file
+- Jupyter Notebook
+- The notebook [Notebook_PowerSystemFaultDetection_HarshTrivedi.ipynb] contains all the implementation steps for the project.
+- Developed and executed on **IBM Watson Studio** using:
+- AutoAI
+- Watson Machine Learning
+- Cloud Object Storage
+
+ Includes:
+- Data preprocessing
+- Model training and evaluation
+- Prediction using electrical phasor data
+
+- This file can be opened directly in Jupyter Notebook or VS Code with Jupyter extension.
+
 
   # Dataset Source
 
